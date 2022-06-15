@@ -1,1 +1,1 @@
-My first directory
+directory readme
